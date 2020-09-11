@@ -1,0 +1,17 @@
+{
+  "name": "visitor-management",
+  "version": "1.0.0",
+  "description": "Visitor Management system Using electron Js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Antar Mukhopadhaya",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^10.1.1",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "tailwindcss": "^1.8.6"
+  }
+}
